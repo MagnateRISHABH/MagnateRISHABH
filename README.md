@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MagnateRISHABH
-- 👀 I’m interested in web devolping
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Rishabh Gupta
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently working in java and springboot application
+- 💞️ I’m looking to collaborate on microservices
 - 📫 you can find me on instagram as Magnate_Rishabh
 
 <!---
